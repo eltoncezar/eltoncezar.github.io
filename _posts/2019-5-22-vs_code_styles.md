@@ -10,10 +10,9 @@ Em suas últimas versões, o Visual Studio tem tentado trazer nativamente alguns
 Toda a configuração é feita em um arquivo `.editorconfig`, que pode ser criado em qualquer local, porém preferencialmente na raiz do seu projeto, já que as regras serão aplicadas para todos os subníveis. Também é interessante incluir esse arquivo em seu controle de versão; dessa forma as regras criadas serão compartilhadas entre todos os membros de sua equipe.
 
 Um arquivo exemplo que define a indentação em 4 espaços:
-```
-indent_style = space
-indent_size = 4
-```
+
+	indent_style = space
+	indent_size = 4
 
 ## Definindo suas regras
 
