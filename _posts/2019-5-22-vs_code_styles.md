@@ -19,7 +19,8 @@ indent_size = 4
 
 Você pode criar esse um `.editorconfig` manualmente ou através do Visual Studio. Navegue até **Tools > Options > Text Editor > C# > Code Style > General**.
 Clique em *Generate .editorconfig file from settings* para automaticamente criar um novo estilo baseado nas configurações definidas nesta página.
-![]({{site.baseurl}}/https://docs.microsoft.com/en-us/visualstudio/ide/media/vs-2019/generate-editorconfig-file-small.png?view=vs-2019)
+
+![](https://docs.microsoft.com/en-us/visualstudio/ide/media/vs-2019/generate-editorconfig-file-small.png?view=vs-2019)
 
 
 ## Referências
